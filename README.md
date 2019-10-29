@@ -17,7 +17,8 @@ ls -a | lists hidden files
 - Absolute path
   - A file or directory location in relation to the root of the file system.
   
-  ### Linux
+  
+  ## Linux
   
 - Everything is a file
 - Files may have any extention possible or none
